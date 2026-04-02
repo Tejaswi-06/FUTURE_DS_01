@@ -1,4 +1,4 @@
-# 📊 Business Sales Performance Analysis (Power BI Dashboard)
+<img width="1329" height="734" alt="Screenshot 2026-03-26 161405" src="https://github.com/user-attachments/assets/576ac32a-8e82-450c-b288-294ff681dafa" /># 📊 Business Sales Performance Analysis (Power BI Dashboard)
 
 ## 📝 Problem Statement
 Businesses generate a large amount of sales data, but analyzing raw data is difficult and time-consuming.  
@@ -56,7 +56,7 @@ The dashboard helps stakeholders make better decisions by quickly identifying hi
 ---
 
 ## 📷 Dashboard Preview
-<img width="1329" height="734" alt="Image" src="https://github.com/user-attachments/assets/71628caf-e0d9-4f35-bd54-0d3fa1c22c17" />
+<img width="1329" height="734" alt="Screenshot 2026-03-26 161405" src="https://github.com/user-attachments/assets/c40a0248-5a2c-49dc-807a-5d074679d8e3" />
 
 ---
 
