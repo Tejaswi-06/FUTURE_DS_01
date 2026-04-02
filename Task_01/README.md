@@ -1,4 +1,4 @@
-<img width="1329" height="734" alt="Screenshot 2026-03-26 161405" src="https://github.com/user-attachments/assets/576ac32a-8e82-450c-b288-294ff681dafa" /># 📊 Business Sales Performance Analysis (Power BI Dashboard)
+# 📊 Business Sales Performance Analysis (Power BI Dashboard)
 
 ## 📝 Problem Statement
 Businesses generate a large amount of sales data, but analyzing raw data is difficult and time-consuming.  
