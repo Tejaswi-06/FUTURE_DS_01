@@ -88,5 +88,4 @@ The dashboard is designed to support **data-driven marketing decisions** by visu
 
 ---
 
-## 📂 Project Structure
 
