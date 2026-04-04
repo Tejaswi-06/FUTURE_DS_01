@@ -5,7 +5,7 @@
 This project showcases three interactive dashboards built using **Power BI** to analyze different business domains:
 
 💹 Business Sales Performance Analysis  
-📌 Customer Retention & Churn Analysis  
+🔄 Customer Retention & Churn Analysis  
 📢 Marketing Funnel & Conversion Performance Analysis  
 
 The goal of this project is to extract meaningful insights, track KPIs, and support data-driven decision-making.
