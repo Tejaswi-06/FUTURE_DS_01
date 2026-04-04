@@ -4,9 +4,9 @@
 
 This project showcases three interactive dashboards built using **Power BI** to analyze different business domains:
 
-* Business Sales Performance Analysis  
-* Customer Retention & Churn Analysis  
-* Marketing Funnel & Conversion Performance Analysis  
+💹 Business Sales Performance Analysis  
+📌 Customer Retention & Churn Analysis  
+📢 Marketing Funnel & Conversion Performance Analysis  
 
 The goal of this project is to extract meaningful insights, track KPIs, and support data-driven decision-making.
 
@@ -42,6 +42,11 @@ To analyze overall business sales performance and identify trends across product
 * Gauge Chart (Profit Margin)  
 * Slicers (Product, Region, Category, Payment Method)
 
+# 📸 Dashboard Preview
+
+## 💹 Business Sales Performance
+<img width="1329" height="734" alt="Business_sales" src="https://github.com/user-attachments/assets/fbc6dd9d-b224-422e-a5e1-9f049cd57311" />
+
 ---
 
 # 📌 2. Customer Retention & Churn Analysis
@@ -74,10 +79,15 @@ To analyze customer retention patterns and identify key factors contributing to 
 * Bar Chart (Churn Rate by Contract)  
 * KPI Cards  
 * Slicers (Gender, Contract Type, Subscription, Payment Method)
+  
+# 📸 Dashboard Preview
+
+## 📊 Customer Retention & Churn
+![Customer_Retention and churn](https://github.com/user-attachments/assets/27a59ae6-61bc-40ff-843a-a2d38ab6b4f0)
 
 ---
 
-# 📌 3. Marketing Funnel & Conversion Performance Analysis
+# 📢 3. Marketing Funnel & Conversion Performance Analysis
 
 ## 🎯 Objective
 
@@ -141,17 +151,8 @@ This project uses structured datasets representing:
 
 # 📸 Dashboard Preview
 
-## 💹 Business Sales Performance
-<img width="1329" height="734" alt="Business_sales" src="https://github.com/user-attachments/assets/fbc6dd9d-b224-422e-a5e1-9f049cd57311" />
-
-
-## 📊 Customer Retention & Churn
-![Customer_Retention and churn](https://github.com/user-attachments/assets/27a59ae6-61bc-40ff-843a-a2d38ab6b4f0)
-
-
 ## 🎯 Marketing Funnel
 ![Marketing_Funnel](https://github.com/user-attachments/assets/eed3a08b-eb14-49e3-8aaf-2eccf298b22b)
-
 
 ---
 
