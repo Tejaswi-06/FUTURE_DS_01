@@ -1,4 +1,4 @@
-# Customer Retention & Churn Analysis Dashboard
+# 🔄 Customer Retention & Churn Analysis Dashboard
 
 ## 📌 Objective
 The goal of this project is to analyze customer retention and identify churn patterns to help businesses improve customer satisfaction and reduce customer loss.
@@ -76,3 +76,9 @@ The analysis highlights that contract type, subscription plan, and service type 
 - Add predictive churn model
 - Deploy dashboard online
 - Include real-time data updates
+
+  ---
+  
+## 👤 Author  
+Tejaswi
+  
