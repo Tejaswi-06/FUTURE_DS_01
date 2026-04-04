@@ -12,7 +12,7 @@ The goal of this project is to extract meaningful insights, track KPIs, and supp
 
 ---
 
-# 📌 1. Business Sales Performance Analysis
+# 💹 1. Business Sales Performance Analysis
 
 ## 🎯 Objective
 
@@ -49,7 +49,7 @@ To analyze overall business sales performance and identify trends across product
 
 ---
 
-# 📌 2. Customer Retention & Churn Analysis
+# 🔄 2. Customer Retention & Churn Analysis
 
 ## 🎯 Objective
 
@@ -120,6 +120,15 @@ To analyze the marketing funnel and evaluate conversion performance across chann
 
 ---
 
+# 📸 Dashboard Preview
+
+## 🎯 Marketing Funnel
+![Marketing_Funnel](https://github.com/user-attachments/assets/eed3a08b-eb14-49e3-8aaf-2eccf298b22b)
+
+
+---
+
+
 # 🛠️ Tools & Technologies Used
 
 * Power BI (Dashboard Development)  
@@ -145,14 +154,7 @@ This project uses structured datasets representing:
 * Building interactive dashboards  
 * KPI identification and tracking  
 * Business insight generation  
-* Storytelling with data  
-
----
-
-# 📸 Dashboard Preview
-
-## 🎯 Marketing Funnel
-![Marketing_Funnel](https://github.com/user-attachments/assets/eed3a08b-eb14-49e3-8aaf-2eccf298b22b)
+* Storytelling with data
 
 ---
 
