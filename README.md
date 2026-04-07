@@ -1,6 +1,12 @@
-#Task_01
+# Task_01
 # 📊 Business Sales Performance Analysis (Power BI Dashboard)
 
+## 📷 Dashboard Preview
+
+<img width="1329" height="734" alt="Business_sales" src="https://github.com/user-attachments/assets/f89406b1-83c8-4df9-9799-1df2aec0d115" />
+
+
+---
 ## 📝 Problem Statement
 Businesses generate a large amount of sales data, but analyzing raw data is difficult and time-consuming.  
 The main challenge is to track overall business performance and identify key trends such as sales growth, profit, customer spending, and region-wise contribution.
@@ -53,11 +59,6 @@ The dashboard helps stakeholders make better decisions by quickly identifying hi
 - Power Query (Data Cleaning & Transformation)  
 - DAX (Measures and Calculations)  
 - Excel / CSV Dataset  
-
----
-
-## 📷 Dashboard Preview
-<img width="1329" height="734" alt="Screenshot 2026-03-26 161405" src="https://github.com/user-attachments/assets/c40a0248-5a2c-49dc-807a-5d074679d8e3" />
 
 ---
 
